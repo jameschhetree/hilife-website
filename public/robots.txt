@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://hilifeatl.com/sitemap.xml
+
+Disallow: /dashboard
+Disallow: /login
+Disallow: /api/
